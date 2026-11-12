@@ -1,8 +1,8 @@
-# Quick To-Do 개인정보 처리방침
+# Shoong! 개인정보 처리방침
 
 시행일: 2026년 11월 5일
 
-Quick To-Do(이하 "앱")는 이용자의 개인정보를 서버로 수집하거나 외부로 전송하지 않습니다. 이 방침은 앱이 사용하는 정보와 권한을 설명합니다.
+Shoong!(이하 "앱")는 이용자의 개인정보를 서버로 수집하거나 외부로 전송하지 않습니다. 이 방침은 앱이 사용하는 정보와 권한을 설명합니다.
 
 ## 1. 수집하는 정보
 
@@ -26,7 +26,7 @@ Quick To-Do(이하 "앱")는 이용자의 개인정보를 서버로 수집하거
 
 ## 4. 정보의 보관과 삭제
 
-모든 데이터는 기기에 저장되며, 앱을 삭제하거나 설정 → 앱 → Quick To-Do → 저장공간에서 데이터를 지우면 함께 삭제됩니다. 앱이 캘린더에 등록한 일정은 앱에서 지우거나 캘린더에서 직접 지울 수 있습니다.
+모든 데이터는 기기에 저장되며, 앱을 삭제하거나 설정 → 앱 → Shoong! → 저장공간에서 데이터를 지우면 함께 삭제됩니다. 앱이 캘린더에 등록한 일정은 앱에서 지우거나 캘린더에서 직접 지울 수 있습니다.
 
 ## 5. 아동
 
@@ -42,11 +42,11 @@ Quick To-Do(이하 "앱")는 이용자의 개인정보를 서버로 수집하거
 
 ---
 
-# Quick To-Do Privacy Policy
+# Shoong! Privacy Policy
 
 Effective date: November 5, 2026
 
-Quick To-Do ("the app") does not collect personal data or send it to any server. Tasks, dates, routines and settings you enter are stored **only on your device**. The app contains no ads, analytics, or account sign-up.
+Shoong! ("the app") does not collect personal data or send it to any server. Tasks, dates, routines and settings you enter are stored **only on your device**. The app contains no ads, analytics, or account sign-up.
 
 **Permissions**
 - *Notifications*: to show today's tasks in the notification shade and lock screen.
